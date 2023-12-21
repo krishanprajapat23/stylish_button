@@ -68,7 +68,7 @@ body {
   max-width: 102%;
   width: 100%;
   height: 190px;
-  background: url("/hero-wave.png") repeat-x;
+  background: url("./hero-wave.png") repeat-x;
   animation: wave 10s cubic-bezier(0.44, 0.66, 0.67, 0.37) infinite;
 }
 
